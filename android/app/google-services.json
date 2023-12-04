@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737323158153",
+    "project_id": "voice-call-9c63f",
+    "storage_bucket": "voice-call-9c63f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737323158153:android:64d4507c3ec62f41a35458",
+        "android_client_info": {
+          "package_name": "com.example.voice_call_sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcXvWictBzrgSyUa13NqgECXbjZs8p08g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
